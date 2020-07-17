@@ -1,0 +1,23 @@
+EVENT				DATE					DAY
+New Year’s Day		01 January 2018					Monday
+
+Thaipusam		31 January 2018					Wednesday
+Federal Territory Day	01 February 2018				Thursday
+Chinese New Year	16-17 February 2018				Friday-Saturday
+Labour Day		01 May 2018					Tuesday
+Wesak Day		29 May 2018					Tuesday
+Nuzul Al Quran		02 June 2018					Saturday
+Hari Raya Puasa 	15-16 June 2018					Friday-Saturday
+
+Hari Raya Qurban 	22 August 2018					Wednesday
+Nuzul Al-Quran		12 June 2018					Monday
+National Day		31 August 2018					Friday
+Yang di-Pertuan Agong	09 September 2018				Sunday
+Public Holiday 		10 September 2018				Monday
+Awal Muharram		11 September 2018				Tuesday
+Malaysia Day		16 September 2018				Sunday
+
+
+Deepavali		06 November 2018				Tuesday
+B.O.D Prophet Muhammad	20 November 2018				Tuesday
+Christmas Day		25 December 2018				Monday
